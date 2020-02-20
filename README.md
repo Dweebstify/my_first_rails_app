@@ -24,3 +24,5 @@ Things you may want to cover:
 * ...
 
 * Testing git henlo
+
+* Further testing
